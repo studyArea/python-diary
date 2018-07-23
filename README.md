@@ -1,2 +1,2 @@
 # python-diary
-学习笔记
+自动化测试、python学习等笔记
